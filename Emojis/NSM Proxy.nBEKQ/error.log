@@ -1,0 +1,272 @@
+
+ZynAddSubFX - Copyright (c) 2002-2013 Nasca Octavian Paul and others
+                Copyright (c) 2009-2016 Mark McCurry [active maintainer]
+Compiled: Mar 27 2016 23:52:36
+This program is free software (GNU GPL v2 or later) and 
+it comes with ABSOLUTELY NO WARRANTY.
+
+
+Sample Rate = 		48000
+Sound Buffer Size = 	1024 samples
+Internal latency = 	21.3 ms
+ADsynth Oscil.Size = 	1024 samples
+lo server running on 13145
+Starting Audio: JACK
+Jack buffer resized
+Audio Started
+Starting MIDI: ALSA
+MIDI Started
+midi list updating...
+Info, alsa midi port connected
+
+
+Damage("/part0/")
+Jack reports xrun
+
+
+Damage("/part0/")
+
+
+Damage("/part0/")
+Jack reports xrun
+Jack reports xrun
+doing an autosave </home/thoth/.local/zynaddsubfx-2934-autosave.xmz>...
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+doing an autosave </home/thoth/.local/zynaddsubfx-2934-autosave.xmz>...
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+doing an autosave </home/thoth/.local/zynaddsubfx-2934-autosave.xmz>...
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+doing an autosave </home/thoth/.local/zynaddsubfx-2934-autosave.xmz>...
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+doing an autosave </home/thoth/.local/zynaddsubfx-2934-autosave.xmz>...
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+doing an autosave </home/thoth/.local/zynaddsubfx-2934-autosave.xmz>...
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+doing an autosave </home/thoth/.local/zynaddsubfx-2934-autosave.xmz>...
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+doing an autosave </home/thoth/.local/zynaddsubfx-2934-autosave.xmz>...
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+doing an autosave </home/thoth/.local/zynaddsubfx-2934-autosave.xmz>...
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+doing an autosave </home/thoth/.local/zynaddsubfx-2934-autosave.xmz>...
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+doing an autosave </home/thoth/.local/zynaddsubfx-2934-autosave.xmz>...
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+doing an autosave </home/thoth/.local/zynaddsubfx-2934-autosave.xmz>...
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+doing an autosave </home/thoth/.local/zynaddsubfx-2934-autosave.xmz>...
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+doing an autosave </home/thoth/.local/zynaddsubfx-2934-autosave.xmz>...
+Jack reports xrun
+doing an autosave </home/thoth/.local/zynaddsubfx-2934-autosave.xmz>...
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+[1;37;40mUnknown address<BACKEND> '/vu-meter:bb'
+[0;37;40mdoing an autosave </home/thoth/.local/zynaddsubfx-2934-autosave.xmz>...
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+doing an autosave </home/thoth/.local/zynaddsubfx-2934-autosave.xmz>...
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+doing an autosave </home/thoth/.local/zynaddsubfx-2934-autosave.xmz>...
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+[1;37;40mUnknown address<BACKEND> '/vu-meter:bb'
+[0;37;40mdoing an autosave </home/thoth/.local/zynaddsubfx-2934-autosave.xmz>...
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+doing an autosave </home/thoth/.local/zynaddsubfx-2934-autosave.xmz>...
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+doing an autosave </home/thoth/.local/zynaddsubfx-2934-autosave.xmz>...
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+
+
+Damage("/part0/")
+Jack reports xrun
+doing an autosave </home/thoth/.local/zynaddsubfx-2934-autosave.xmz>...
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+doing an autosave </home/thoth/.local/zynaddsubfx-2934-autosave.xmz>...
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+doing an autosave </home/thoth/.local/zynaddsubfx-2934-autosave.xmz>...
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+doing an autosave </home/thoth/.local/zynaddsubfx-2934-autosave.xmz>...
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+Jack reports xrun
+doing an autosave </home/thoth/.local/zynaddsubfx-2934-autosave.xmz>...
+Deactivating and closing JACK client
